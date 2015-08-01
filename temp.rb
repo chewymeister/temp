@@ -26,3 +26,7 @@ def blow_stuff_up
     puts ex.message
   end
 end
+
+def this_is_a_named_stash
+  "This is a named stash!!"
+end
