@@ -1,0 +1,3 @@
+[submodule "temp_submodule"]
+	path = temp_submodule
+	url = git@github.com:chewymeister/temp_submodule.git
