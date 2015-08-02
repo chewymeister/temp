@@ -27,6 +27,6 @@ def blow_stuff_up
   end
 end
 
-def this_is_a_named_stash
-  "This is a named stash!!"
+def this_will_test_stashing_unstaged_files
+  "Only stash files that are not staged"
 end
